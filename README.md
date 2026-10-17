@@ -58,7 +58,7 @@ My goal is to strengthen algorithmic thinking, understand the trade-offs between
 | Bubble Sort |
 ### 4. Hashing and Collections
 
-| Concept | Source File |
+| Concept |
 |---|---|
 | Java HashMap | 
 | HashMap Iteration | 
