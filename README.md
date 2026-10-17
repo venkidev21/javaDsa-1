@@ -24,66 +24,55 @@ My goal is to strengthen algorithmic thinking, understand the trade-offs between
 
 | Problem / Concept | Source File |
 |---|---|
-| Maximum Element in an Array | [`Max_of_array.java`](Max_of_array.java) |
-| Reverse an Array | [`ReverseArray.java`](ReverseArray.java) |
-| Left Array Rotation | [`_017_left_rotate_array.java`](%5F017_left_rotate_array.java) |
-| Right Array Rotation | [`_018_right_Rotation.java`](%5F018_right_Rotation.java) |
-| Change Array Values | [`changeArrayValue.java`](changeArrayValue.java) |
-| Swap Array Elements | [`swap_An_array.java`](swap_An_array.java) |
-| 2D Array Operations | [`Array2Darray.java`](Array2Darray.java) |
-| Linear Search in a 2D Array | [`linear_2dArray.java`](linear_2dArray.java) |
-| Spiral Traversal | [`spiral.java`](spiral.java) |
-| Left and Right Array Sum | [`left_rigt_aum.java`](left_rigt_aum.java) |
+| Maximum Element in an Array | 
+| Reverse an Array |
+| Left Array Rotation | 
+| Right Array Rotation | 
+| Change Array Values | 
+| Swap Array Elements | 
+| 2D Array Operations | 
+| Linear Search in a 2D Array | 
+| Spiral Traversal | 
+| Left and Right Array Sum |
 
 ### 2. Searching Algorithms
 
 | Problem / Concept | Source File |
 |---|---|
-| Linear Search | [`linear_search.java`](linear_search.java) |
-| Binary Search | [`Binary_search.java`](Binary_search.java) |
-| Binary Search in an Infinite Array | [`InfiniteArrayBinSearch.java`](InfiniteArrayBinSearch.java) |
-| Floor Using Binary Search | [`_016_floor_using_bs.java`](%5F016_floor_using_bs.java) |
-| Ceiling Using Binary Search | [`ceeling_num_bsearch.java`](ceeling_num_bsearch.java) |
-| First and Last Position | [`_019_Find_first_last_pos.java`](%5F019_Find_first_last_pos.java) |
-| Find Pivot in a Rotated Array | [`_020_find_pivot.java`](%5F020_find_pivot.java) |
-| Search in a Rotated Array | [`Rotated_Array_pivot_33.java`](Rotated_Array_pivot_33.java) |
-| Rotated Array with Duplicates | [`_021_RotaedArray_with_duplicate.java`](%5F021_RotaedArray_with_duplicate.java) |
-| Count Array Rotations | [`_022_Count_Rotation.java`](%5F022_Count_Rotation.java) |
-| Binary Search in a 2D Array | [`_023_Bsearch_2D.java`](%5F023_Bsearch_2D.java) |
-| Search a Sorted 2D Array | [`_024_Sorted2Dbs.java`](%5F024_Sorted2Dbs.java) |
-
+| Linear Search | 
+| Binary Search | 
+| Binary Search in an Infinite Array | 
+| Floor Using Binary Search | 
+| Ceiling Using Binary Search |
+| First and Last Position | 
+| Find Pivot in a Rotated Array |
+| Search in a Rotated Array | 
+| Rotated Array with Duplicates | 
+| Count Array Rotations | 
+| Binary Search in a 2D Array | 
+| Search a Sorted 2D Array | 
 ### 3. Sorting Algorithms
 
 | Algorithm | Source File |
 |---|---|
-| Bubble Sort | [`_025_BubbleSort.java`](%5F025_BubbleSort.java) |
-
+| Bubble Sort |
 ### 4. Hashing and Collections
 
 | Concept | Source File |
 |---|---|
-| Java HashMap | [`Hash_map.java`](Hash_map.java) |
-| HashMap Iteration | [`hash_for.java`](hash_for.java) |
+| Java HashMap | 
+| HashMap Iteration | 
 
 ### 5. Peak Element Problems
 
 | Problem / Concept | Source File |
 |---|---|
-| Find a Peak Element | [`peak.java`](peak.java) |
-| Peak Index in a Mountain Array | [`peak_index_target_1095.java`](peak_index_target_1095.java) |
+| Find a Peak Element | 
+| Peak Index in a Mountain Array | 
 
-### 6. Additional Java Practice
 
-The repository also contains programs exploring Java fundamentals and other practice problems.
 
-- [`empSwitch.java`](empSwitch.java)
-- [`swichCase.java`](swichCase.java)
-- [`swapFunc.java`](swapFunc.java)
-- [`kaithNumber.java`](kaithNumber.java)
-- [`shdow.java`](shdow.java)
-- [`ex.java`](ex.java)
 
-These files can be categorized more precisely as their implementations and problem statements are documented.
 
 ## Getting Started
 
