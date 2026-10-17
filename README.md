@@ -22,7 +22,7 @@ My goal is to strengthen algorithmic thinking, understand the trade-offs between
 
 ### 1. Arrays and Array Manipulation
 
-| Problem / Concept | Source File |
+| Problem / Concept |
 |---|---|
 | Maximum Element in an Array | 
 | Reverse an Array |
@@ -37,7 +37,7 @@ My goal is to strengthen algorithmic thinking, understand the trade-offs between
 
 ### 2. Searching Algorithms
 
-| Problem / Concept | Source File |
+| Problem / Concept |
 |---|---|
 | Linear Search | 
 | Binary Search | 
@@ -53,7 +53,7 @@ My goal is to strengthen algorithmic thinking, understand the trade-offs between
 | Search a Sorted 2D Array | 
 ### 3. Sorting Algorithms
 
-| Algorithm | Source File |
+| Algorithm | 
 |---|---|
 | Bubble Sort |
 ### 4. Hashing and Collections
@@ -65,7 +65,7 @@ My goal is to strengthen algorithmic thinking, understand the trade-offs between
 
 ### 5. Peak Element Problems
 
-| Problem / Concept | Source File |
+| Problem / Concept |
 |---|---|
 | Find a Peak Element | 
 | Peak Index in a Mountain Array | 
